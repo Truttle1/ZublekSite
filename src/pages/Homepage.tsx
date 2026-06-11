@@ -21,7 +21,7 @@ function Homepage() {
           </p>
 
           <p className={paragraphStyles}>
-            Oh yeah I'm also a furry.
+            Oh yeah I'm also a <a href="https://www.furtrack.com/index/zublek">furry</a>.
           </p>
 
           <h3 className="mt-6 text-lg font-bold">
