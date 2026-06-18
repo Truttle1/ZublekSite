@@ -11,7 +11,7 @@ function Homepage() {
           <p className={paragraphStyles}>
             I'm a Software Engineer currently living in San Francisco, CA. Professionally, I am a full-stack developer with experience in TypeScript (this site's in React), Python,
             Java, and a bit of Kotlin and Swift sometimes. For side projects, I've done a lot of weird things, like a patch for a SimCity bug on the SNES (coming soon), <a href="https://esolangs.org/wiki/Burnlike">reverse-engineering 
-            a cellular automaton from 2005</a>, and writing a <a href="github.com/Truttle1/bf-compiler">self-hosting compiler in Brainf**k, 
+            a cellular automaton from 2005</a>, and writing a <a href="https://github.com/Truttle1/bf-compiler">self-hosting compiler in Brainf**k, 
             which can compile itself and was even used to compile an update to itself.</a>
           </p>
 
@@ -30,7 +30,6 @@ function Homepage() {
           <ul className={paragraphStyles + " list-disc list-inside"}>
             <li><a href="https://youtube.com/@Truttle1">YouTube</a></li>
             <li><a href="https://instagram.com/zublekderg">Instagram</a></li>
-            <li><a href="https://youtube.com/@Truttle1">YouTube</a></li>
             <li><a href="https://github.com/Truttle1">GitHub</a></li>
             <li><a href="https://twitter.com/Truttle1">Xwitter (I don't use this much)</a></li>
             <li><a href="https://bsky.app/profile/truttle1.bsky.social">Bluesky (I use this slightly more)</a></li>

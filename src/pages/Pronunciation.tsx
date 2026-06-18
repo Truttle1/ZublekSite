@@ -28,6 +28,11 @@ function Pronunciation() {
                 Despite this, everyone keeps calling me "Zoob-lek", pronouncing the "U" like in "Uzbekistan" instead.
                 Somehow, I have invented a word that is more likely be pronounced correctly by a 5 year old than by an adult.
             </p>
+            <p className={paragraphStyles}>
+              The word "Zublek" is based on the name of the programming language <a href="https://esolangs.org/wiki/Subleq">Subleq</a>, 
+              which is a one instruction language that subtracts the value of two pointers and jumps to the third pointer if the result is
+              less than or equal to zero.
+            </p>
         </div>
     </div>
   )
